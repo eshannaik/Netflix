@@ -25,10 +25,13 @@ Source to our data lake -
 
 
 Azure Workflow -
+
 ![image](https://github.com/user-attachments/assets/4b9c410d-c1ef-4542-8cb7-88a172a90034)
 
 The Master Workflow -
+
 ![image](https://github.com/user-attachments/assets/89e7e890-9021-4ae6-94f9-b0cabc8fbdb4)
 
-The entire workflow is -
+The Entire Workflow -
+
 ![image](https://github.com/user-attachments/assets/d9f62a0e-65b6-49d4-a6de-7c73eebfe51e)
