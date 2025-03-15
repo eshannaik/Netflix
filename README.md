@@ -24,9 +24,14 @@ Source to our data lake -
 - All this is put into our workflow
 
 
-Azure Workflow -
-
+Azure Workflow -  
+- Source to Bronze Layer Workflow
+  
 ![image](https://github.com/user-attachments/assets/4b9c410d-c1ef-4542-8cb7-88a172a90034)
+ 
+- Workflow to join all tables except titles csv and store is into the silver layer, as "Information" csv
+
+![image](https://github.com/user-attachments/assets/729290cd-77b5-402c-b5b7-4380d29923b2)
 
 The Master Workflow -
 
